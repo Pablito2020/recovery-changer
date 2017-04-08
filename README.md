@@ -19,6 +19,11 @@ Developers | DcSoK, Tifo and Pablito
  * Lineage OS 14.1 (7.1.1)
  * ALPS Unofficial (5.0.2)
    
+### Languages Added in this app:
+ * English (EN)
+ * Spanish (Spain)
+ * Catalan (Spain)
+   
 ### Issues:
  * In Marshmallow and nougat roms you must add the storage permission to the app manualy!
  * No more bugs found..
