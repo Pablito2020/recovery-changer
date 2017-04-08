@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/md_indigo_500</item>
+        <item name="colorPrimaryDark">@color/md_indigo_700</item>
+        <item name="colorButtonNormal">@color/md_indigo_400</item>
+        <item name="colorAccent">@color/md_indigo_500</item>
+        <item name="alertDialogTheme">@style/dialog</item>
+    </style>
+
+    <style name="RedButtonStyle" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorButtonNormal">@color/md_red_400</item>
+    </style>
+
+    <style name="dialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/md_indigo_500</item>
+        <item name="android:windowTitleStyle">@style/TitleTextStyle</item>
+    </style>
+
+    <style name="TitleTextStyle">
+        <item name="android:textColor">@color/md_indigo_700</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Title</item>
+    </style>
+
+</resources>

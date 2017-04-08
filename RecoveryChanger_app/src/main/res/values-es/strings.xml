@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Instalador de Recovery</string>
+    <string name="Installing">"Instalación del "</string>
+    <string name="philz">Recovery TWRP official </string>
+    <string name="twrp">Recovery TWRP Unofficial by Pablito2020</string>
+    <string name="stock">Recovery bq original</string>
+    <string name="stock_confirm">¿Desea instalar el Recovery bq original?</string>
+    <string name="twrp_confirm">¿Desea instalar el Recovery TWRP Unofficial?</string>
+    <string name="rootstat"><b>Estado de acceso root</b>:</string>
+    <string name="root_not_OK_info2">¡Su dispositivo no tiene acceso root, o el permiso de root no ha sido habilitado para esta aplicación!</string>
+    <string name="root_not_OK_info1">¡¡Imposible de ejecutar como usuario root!!</string>
+    <string name="root_not_OK">Sin acceso root</string>
+    <string name="root_OK">Con acceso root</string>
+    <string name="recovery_confirm">Desea iniciar en modo Recovery?</string>
+    <string name="recovery">Modo de Recuperación</string>
+    <string name="reboot2recovery_label">Reinicie en Modo de Recuperación</string>
+    <string name="reboot2recovery">Toque el botón abajo para iniciar en Modo de Recovery y comprobar que el recovery se ha instalado correctamente</string>
+    <string name="philz_confirm">Desea instalar el Recovery TWRP Official?</string>
+    <string name="app_version">¡Sólo para bq Aquaris E4.5!</string>
+    <string name="original_code"><b>Código original</b>:\n\nDcSok ,ElTifo y Pablito2020\n\n<b>Gracias</b>:\n\nEquipo TWRP y Kra1o5\</string>
+    <string name="toast">"¡El recovery seleccionado anteriormente ha sido instalado!"</string>
+</resources>

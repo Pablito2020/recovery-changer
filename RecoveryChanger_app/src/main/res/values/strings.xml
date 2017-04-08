@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Recovery Changer</string>
+    <string name="app_version">Only for bq Aquaris E4.5</string>
+    <string name="rootstat"><b>Root Status</b>:</string>
+    <string name="stock">bq Stock Recovery</string>
+    <string name="stock_confirm">Do you want to install bq Stock Recovery?</string>
+    <string name="twrp">TWRP Unofficial Recovery</string>
+    <string name="twrp_confirm">¿Do you want to install TWRP Recovery Unofficial?</string>
+    <string name="philz">TWRP Official Recovery</string>
+    <string name="philz_confirm">Do you want to install TWRP Recovery Official?</string>
+    <string name="reboot2recovery">Touch the button below to reboot to recovery and check if it was correctly installed</string>
+    <string name="reboot2recovery_label">Reboot into Recovery</string>
+    <string name="original_code"><b>Original code</b>:\n\nDcSok, ElTifo and Pablito2020\n\n<b>Thanks to</b>:\n\nTWRP Team and Kra1o5\</string>
+    <string name="recovery">Recovery</string>
+    <string name="recovery_confirm">Do you want to reboot into recovery mode?</string>
+    <string name="root_OK">Rooted</string>
+    <string name="root_not_OK">Not Rooted</string>
+    <string name="root_not_OK_info1">Failed to run as root!</string>
+    <string name="root_not_OK_info2">Your device either does not have root access, or the root permission has not been granted!</string>
+    <string name="Installing">"Installing "</string>
+    <string name="toast">"The selected Recovery has been installed!"</string>
+    <string name="blank" translatable="false">" "</string>
+</resources>
