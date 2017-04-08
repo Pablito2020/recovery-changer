@@ -2,12 +2,11 @@ Recovery Changer App - krillin
 ==============
 
 ### About the project:
+-------:|:---------------------------
+Project | Android Studio Project
+Recovery Supported | TWRP,STOCK
+Developers | DcSoK, Tifo and Pablito
 
-
-----------------------:|:-------------------------
-Project                | Android studio Project
-Recovery supported     | TWRP Official and Unofficial and stock bq recovery
-Developers             | DcSoK, ElTifo and Pablito2020
 ---
 
 ### Tested On:
