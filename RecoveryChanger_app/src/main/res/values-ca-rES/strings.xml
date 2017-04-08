@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Instalador de Recovery</string>
+    <string name="app_version">Unicament bq Aquaris E4.5</string>
+    <string name="rootstat"><b>Estat del root</b>:</string>
+    <string name="stock">Recovery de fàbrica de bq</string>
+    <string name="stock_confirm">Està segur de instalar el recovery de fàbrica de bq?</string>
+    <string name="twrp">Recovery "TWRP" No Oficial</string>
+    <string name="twrp_confirm">Estar segur de instalar el recovery twrp no oficial?</string>
+    <string name="philz">Recovery "TWRP" oficial</string>
+    <string name="philz_confirm">Estar segur de instalar el recovery twrp oficial??</string>
+    <string name="reboot2recovery">Premi el botó de abaix per a reiniciar en mode recovery (recuperació) y confirmar que el recovery ha sigut instalat correctament</string>
+    <string name="reboot2recovery_label">Reiniciar en mode recovery</string>
+    <string name="original_code"><b>Códig original</b>:\n\nDcSok, ElTifo i Pablito2020\n\n<b>Agraiments a</b>:\n\nTWRP Team i Kra1o5\</string>
+    <string name="recovery">Recovery</string>
+    <string name="recovery_confirm">Està segur de reiniciar en mode recovery (recuperació)?</string>
+    <string name="root_OK">Rootejat</string>
+    <string name="root_not_OK">No rootejat</string>
+    <string name="root_not_OK_info1">Imposible trobar el permís root!</string>
+    <string name="root_not_OK_info2">Sembla ser que el seu dispositu no està rootejat o vosté no li ha donat permisos de root</string>
+    <string name="Installing">"Instalant "</string>
+    <string name="toast">"El recovery seleccionat anteriorment ha estat instalat correctament!"</string>
+    <string name="blank" translatable="false">" "</string>
+</resources>

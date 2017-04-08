@@ -5,7 +5,7 @@
     <string name="stock">bq Stock Recovery</string>
     <string name="stock_confirm">Do you want to install bq Stock Recovery?</string>
     <string name="twrp">TWRP Unofficial Recovery</string>
-    <string name="twrp_confirm">¿Do you want to install TWRP Recovery Unofficial?</string>
+    <string name="twrp_confirm">Do you want to install TWRP Recovery Unofficial?</string>
     <string name="philz">TWRP Official Recovery</string>
     <string name="philz_confirm">Do you want to install TWRP Recovery Official?</string>
     <string name="reboot2recovery">Touch the button below to reboot to recovery and check if it was correctly installed</string>
